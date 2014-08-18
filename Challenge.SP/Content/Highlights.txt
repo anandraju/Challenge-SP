@@ -1,0 +1,7 @@
+<div class="placeholder">
+
+              <h2>Highlights</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, </p>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+
+</div>

@@ -1,0 +1,9 @@
+<div class="placeholder">
+
+<div class="placeholder">
+              <h2>Find It Fast</h2>
+              <p>Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+
+</div>
+</div>

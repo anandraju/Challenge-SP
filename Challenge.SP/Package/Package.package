@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="05ea1cb4-fb84-4c9b-8688-671b9ccc744d" solutionId="05ea1cb4-fb84-4c9b-8688-671b9ccc744d" resetWebServer="false" sharePointProductVersion="15.0" name="Challenge.SP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="a7c1229c-eb76-4eb9-b5e5-317c5f922add" />
+  </projectItems>
+</package>

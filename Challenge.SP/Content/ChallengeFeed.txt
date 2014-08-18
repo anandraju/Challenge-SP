@@ -1,0 +1,12 @@
+<div class="placeholder">
+<div class="placeholder">
+              <h2>Challenge Feed Placeholder</h2>
+              <ul>
+<li>Donec id elit non mi porta gravida at eget metus.</li>
+<li>Fusce dapibus, tellus ac cursus commodo.</li>
+<li>tortor mauris condimentum nibh.</li>
+</ul>
+              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+
+</div>
+</div>

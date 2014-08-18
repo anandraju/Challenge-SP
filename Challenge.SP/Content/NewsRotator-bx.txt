@@ -1,0 +1,31 @@
+<!-- bxSlider Javascript file -->
+<script src="/_layouts/15/Challenge/bxslider/jquery.bxslider.js"></script>
+<!-- bxSlider CSS file -->
+<link href="/_layouts/15/Challenge/bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+<div class="placeholder">
+<h1>News Rotator</h2>
+<ul class="bxslider">
+  <li><img src="/_layouts/15/Challenge/img/picto.png" /></li>
+  <li><img src="/_layouts/15/Challenge/img/houses.jpg" /></li>
+  <li><img src="/_layouts/15/Challenge/img/hillside.jpg" /></li>
+</ul>
+</div>
+<script type="text/javascript">
+function initSlider()
+{
+$(document).ready( function () {
+   if (typeof $('.bxslider') === "undefined")
+   {
+     console.log("unable to find bx slider div");
+     return;
+   }
+
+   
+   $('.bxslider').bxSlider();	
+});
+}
+_spBodyOnLoadFunctionNames.push("initBxSlider");
+_spBodyOnLoadFunctionNames.push("initSlider");
+</script>
+<script src="/_layouts/15/Challenge/bxslider/jquery.bxslider.js"></script>

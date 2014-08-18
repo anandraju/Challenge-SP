@@ -1,0 +1,58 @@
+﻿body
+{
+}
+
+.ms-core-pageTitle {
+    margin-top: -5px;
+}
+
+#s4-titlerow {
+    height:100px;
+    background: #6d6e71;
+}
+
+    #s4-titlerow .menu-item-text, #s4-titlerow .ms-helperText, #s4-titlerow .ms-textSmall, #s4-titlerow .ms-core-pageTitle   {
+        color:#fff;
+    }
+
+
+    #s4-titlerow .ms-core-pageTitle, .ms-core-pageTitle a {
+        color: #fff;
+    }
+
+#suiteBarLeft {
+    background: #00B1E0;
+}
+
+.bs-example h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+
+.bs-example .item{
+    background: #333;    
+    text-align: center;
+    height: 200px !important;
+}
+.bs-example .carousel{
+    margin-top: 0px;
+}
+.bs-example{
+}
+
+div.placeholder {
+    border-radius:5px;
+    background: #EAEAE1;
+    padding:10px;
+}
+
+    div.placeholder h2 {
+        margin-top:5px;
+    }
+    div.placeholder .system-announcement {
+        border: 2px solid #AAB1E0;
+        padding:5px;
+    }

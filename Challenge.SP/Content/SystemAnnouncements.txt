@@ -1,0 +1,7 @@
+<div class="placeholder">
+	<div class="system-announcement">
+	<h2>System Announcements</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. </p>	</div>
+              
+
+</div>

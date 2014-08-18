@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="PageLayouts">
+    <File Path="PageLayouts\Sample.txt" Url="PageLayouts/Sample.txt" />
+    <File Path="PageLayouts\LandingPageNoNav.aspx" Url="PageLayouts/LandingPageNoNav.aspx" />
+  </Module>
+</Elements>
