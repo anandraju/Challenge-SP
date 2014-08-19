@@ -1,7 +1,4 @@
-<div class="placeholder">
-	<div class="system-announcement">
-	<h2>System Announcements</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. </p>	</div>
-              
-
-</div>
+<div class="bs-callout bs-callout-danger system-announcement">
+    <h4><span class="glyphicon glyphicon-wrench"></span> &nbsp;Routine Maintenance</h4>
+    <p>Maintenance is being performed on the SharePoint servers this evening at 5pm.  For further information please contact <a href="#">support</a>.</p>
+  </div>

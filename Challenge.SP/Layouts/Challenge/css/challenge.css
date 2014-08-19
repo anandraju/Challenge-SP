@@ -2,23 +2,32 @@
 {
 }
 
+#contentRow {
+    padding-top:20px;
+}
+
+#contentBox div.container-fluid.main-container {
+    margin-top:10px;
+}
+
 .ms-core-pageTitle {
     margin-top: -5px;
 }
 
 #s4-titlerow {
-    height:100px;
-    background: #6d6e71;
+    height:90px;
+    /*background: #6d6e71;*/
+    background: #222;
 }
 
-    #s4-titlerow .menu-item-text, #s4-titlerow .ms-helperText, #s4-titlerow .ms-textSmall, #s4-titlerow .ms-core-pageTitle   {
-        color:#fff;
-    }
+#s4-titlerow .menu-item-text, #s4-titlerow .ms-helperText, #s4-titlerow .ms-textSmall, #s4-titlerow .ms-core-pageTitle   {
+    color:#fff;
+    font-size:1.3em;
+}
 
-
-    #s4-titlerow .ms-core-pageTitle, .ms-core-pageTitle a {
-        color: #fff;
-    }
+#s4-titlerow .ms-core-pageTitle, .ms-core-pageTitle a {
+    color: #fff;
+}
 
 #suiteBarLeft {
     background: #00B1E0;
@@ -56,3 +65,94 @@ div.placeholder {
         border: 2px solid #AAB1E0;
         padding:5px;
     }
+
+
+div.webpart-top-border {
+    background-color: dodgerblue;
+    height: 4px;
+}
+
+.media-body .event-date {
+    font-size: .85em;
+    color: #999;
+    margin-top: -7px;
+    display: block;
+}
+
+.media-body .media-description {
+    font-size: .95em;
+    color: #444;
+    margin-top: 2px;
+    display: block;
+}
+
+.navbar-inner {
+    background: steelblue;
+    border: none;
+}
+
+.tool-box .btn .glyphicon {
+    font-size:5em;
+}
+
+.tool-box .btn {
+    margin-bottom: 10px;
+    margin-right:5px;
+}
+
+
+/*** TAKEN FROM DOCS.css */
+.bs-callout {
+padding: 20px;
+margin: 20px 0;
+border: 1px solid #eee;
+border-left-width: 5px;
+border-radius: 3px;
+}
+
+.bs-callout-danger {
+border-left-color: #d9534f;
+}
+
+
+.bs-callout.system-announcement {
+    height: 200px;
+    box-sizing:border-box;
+    margin:0px;
+}
+
+/* search box text*/
+input#ctl00_PlaceHolderSearchArea_ctl00_csr_sbox {
+    font-size: 0.8em;
+}
+
+.ms-webpart-zone h3 {
+    color: rgb(27, 161, 226);
+}
+
+.highlights-webpart {
+    padding:5px;
+    padding-left:10px;
+    padding-right:10px;
+    background:#FAFAFA;
+}
+
+.snapshot-webpart {
+    background-image: url(/_layouts/15/challenge/img/icicles-small.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position-y: -65px;
+    position:relative;
+    height:200px;
+}
+
+.snapshot-caption {
+    box-sizing:border-box;
+    position:absolute;
+    bottom:0;
+    background: #333;
+    background:rgba(0,0,0,0.5);
+    padding:10px;
+    width:100%;
+    color: #fff;
+}

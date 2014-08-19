@@ -1,7 +1,29 @@
-<div class="placeholder">
+<div class="webpart-top-border">&nbsp;</div>
+<div class="highlights-webpart">
+<h3 style="margin-top: 0px;text-align:right;padding-right:5px;">Highlights</h3>
 
-              <h2>Highlights</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-
+<div class="media">
+    <a class="pull-left" href="#">
+    <img class="media-object" data-src="holder.js/32x32" alt="32x32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZWVlIi8+PHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMzIiIHk9IjMyIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjEycHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NjR4NjQ8L3RleHQ+PC9zdmc+" style="width: 32px; height: 32px;">
+    </a>
+    <div class="media-body">
+		<h4 class="media-heading">Social Club Dinner </h4>
+    </div>
+</div>
+<div class="media">
+    <a class="pull-left" href="#">
+    <img class="media-object" data-src="holder.js/32x32" alt="32x32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZWVlIi8+PHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMzIiIHk9IjMyIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjEycHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NjR4NjQ8L3RleHQ+PC9zdmc+" style="width: 32px; height: 32px;">
+    </a>
+    <div class="media-body">
+		<a href="#"><h4 class="media-heading">2014 Challenge Olympics</h4></a>
+    </div>
+</div>
+<div class="media">
+    <a class="pull-left" href="#">
+    <img class="media-object" data-src="holder.js/32x32" alt="32x32" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZWVlIi8+PHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMzIiIHk9IjMyIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjEycHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NjR4NjQ8L3RleHQ+PC9zdmc+" style="width: 32px; height: 32px;">
+    </a>
+    <div class="media-body">
+		<h4 class="media-heading">Go Kart: Sprint Challenge</h4>
+    </div>
+</div>
 </div>
