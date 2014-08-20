@@ -64,6 +64,7 @@ div.placeholder {
     div.placeholder .system-announcement {
         border: 2px solid #AAB1E0;
         padding:5px;
+        overflow: hidden;
     }
 
 
@@ -87,8 +88,11 @@ div.webpart-top-border {
 }
 
 .navbar-inner {
-    background: steelblue;
+    background: #0081e0;
     border: none;
+}
+a.dynamic.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode {
+    background: #0081e0;
 }
 
 .tool-box .btn .glyphicon {
@@ -119,6 +123,7 @@ border-left-color: #d9534f;
     height: 200px;
     box-sizing:border-box;
     margin:0px;
+    overflow: hidden;
 }
 
 /* search box text*/
@@ -134,7 +139,6 @@ input#ctl00_PlaceHolderSearchArea_ctl00_csr_sbox {
     padding:5px;
     padding-left:10px;
     padding-right:10px;
-    background:#FAFAFA;
 }
 
 .snapshot-webpart {
@@ -156,3 +160,38 @@ input#ctl00_PlaceHolderSearchArea_ctl00_csr_sbox {
     width:100%;
     color: #fff;
 }
+
+#twitter-widget-0 {
+    width: 100% !important;
+}
+
+ul.find-it-fast {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 15px;
+    font-size: 1.3em;
+}
+
+    ul.find-it-fast li {
+        margin-left:0px;
+    }
+
+
+div.footer {
+    background: #333;
+    color: #FAFAFA;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+    div.footer h1, div.footer h1 a {
+        display:inline;
+        font-size:1.4em;
+        color: #FAFAFA;
+        padding-right:20px;
+    }
+
+ul.s4-breadcrumb a.s4-breadcrumbCurrentNode, ul.s4-breadcrumb a.s4-breadcrumbCurrentNode:visited {
+    color: #fff;
+}
+

@@ -1,9 +1,11 @@
-<div class="placeholder">
-
-<div class="placeholder">
-              <h2>Find It Fast</h2>
-              <p>Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-
-</div>
+<div class="webpart-top-border">&nbsp;</div>
+	<h3 style="margin-top: 0px;text-align:right;padding-right:5px;">Find it fast!</h3>
+	<ul class="find-it-fast">
+		<li><a href="#"><span class="glyphicon glyphicon-folder-open"></span>&nbsp; Policies and Procedures</a></li>
+		<li><a href="#"><span class="glyphicon glyphicon-book"></span>&nbsp; Global Address List</a></li>
+		<li><a href="#"><span class="glyphicon glyphicon-pencil"></span>&nbsp; My Learning</a></li>
+		<li><a href="#"><span class="glyphicon glyphicon-glass"></span>&nbsp; Challenge Socials</a></li>
+		<li><a href="#"><span class="glyphicon glyphicon-file"></span>&nbsp; Challenge Templates</a></li>
+		<li><a href="#"><span class="glyphicon glyphicon-phone-alt"></span>&nbsp; Help Desk</a></li>
+	</ul>
 </div>

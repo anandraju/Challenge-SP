@@ -114,12 +114,15 @@
     <Content Include="Layouts\Challenge\img\children.gif" />
     <Content Include="Layouts\Challenge\img\hillside.jpg" />
     <Content Include="Layouts\Challenge\img\houses.jpg" />
+    <Content Include="Layouts\Challenge\img\Icicles-Small.jpg" />
+    <Content Include="Layouts\Challenge\img\Icicles.jpg" />
     <Content Include="Layouts\Challenge\img\logo-mono.png" />
     <Content Include="Layouts\Challenge\img\picto.png" />
     <Content Include="Layouts\Challenge\js\jquery-1.11.1.js" />
     <Content Include="Layouts\Challenge\js\jquery-1.11.1.min.js" />
     <Content Include="MasterPages\bootstrap3.html" />
     <Content Include="MasterPages\seattle-challenge.html" />
+    <Content Include="PageLayouts\PageLayouts\MainLeftSideColumn.aspx" />
     <Content Include="PageLayouts\PageLayouts\LandingPageNoNav.aspx" />
     <Content Include="PageLayouts\PageLayouts\Elements.xml" />
     <Content Include="PageLayouts\PageLayouts\Sample.txt" />

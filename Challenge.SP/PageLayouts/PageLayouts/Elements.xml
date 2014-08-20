@@ -3,5 +3,6 @@
   <Module Name="PageLayouts">
     <File Path="PageLayouts\Sample.txt" Url="PageLayouts/Sample.txt" />
     <File Path="PageLayouts\LandingPageNoNav.aspx" Url="PageLayouts/LandingPageNoNav.aspx" />
+    <File Path="PageLayouts\MainLeftSideColumn.aspx" Url="PageLayouts/MainLeftSideColumn.aspx" />
   </Module>
 </Elements>
